@@ -1,27 +1,24 @@
-# Sales Analysis using Tableau
+# 📊 Retail Sales Performance Analysis Dashboard
 
-## 📊 Project Overview
-This project analyzes retail sales data using Tableau to identify trends, patterns, and insights.
+## 🔹 Objective
+Analyze sales data to identify trends, patterns, and business insights.
 
-## 📌 Visualizations Used
-- Line Chart (Yearly Sales Trend)
-- Bar Chart (Year-wise Comparison)
-- Pie Chart (Category Distribution)
-- Area Chart (Sales Trend)
-- Heatmap (Sales Intensity)
-
-## 🔍 Key Insights
-- Sales increased from 2020 to 2022
-- 2022 is the highest performing year
-- Sales declined after 2022
-- Categories contribute almost equally
-
-## 🛠 Tools Used
+## 🔹 Tools Used
 - Tableau
+- Excel
 
-## 📁 Files Included
-- Project Report (PDF)
-- Visualization Screenshots
+## 🔹 Key Insights
+- Sales peaked in 2022 followed by a decline
+- Category contribution is balanced across products
+- Certain quarters show higher performance (seasonal trend)
 
-## 🚀 Outcome
-This project demonstrates how data visualization helps in understanding business performance and making data-driven decisions.
+## 🔹 Business Recommendations
+- Focus on strategies used during peak performance period
+- Improve declining sales trends
+- Optimize marketing in low-performing periods
+
+## 🔹 Dashboard Preview
+(Add screenshot here)
+
+## 🔹 Conclusion
+This project demonstrates how data visualization can support business decision-making.
