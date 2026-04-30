@@ -1,24 +1,32 @@
 # 📊 Retail Sales Performance Analysis Dashboard
 
 ## 🔹 Objective
-Analyze sales data to identify trends, patterns, and business insights.
+To analyze multi-year retail sales data and identify key trends, performance patterns, and potential business improvement opportunities.
 
 ## 🔹 Tools Used
 - Tableau
 - Excel
 
+## 🔹 Data Analysis
+- Performed year-wise sales trend analysis to identify growth and decline patterns  
+- Analyzed category-wise contribution to understand product performance  
+- Evaluated quarterly sales distribution to detect seasonal trends  
+- Compared performance across different time periods  
+
 ## 🔹 Key Insights
-- Sales peaked in 2022 followed by a decline
-- Category contribution is balanced across products
-- Certain quarters show higher performance (seasonal trend)
+- Sales showed a steady increase and peaked in 2022, indicating strong business performance during that period  
+- A decline in sales is observed in subsequent years, suggesting possible changes in demand or business conditions  
+- Product categories contributed relatively evenly to total sales, indicating a balanced portfolio  
+- Certain quarters consistently showed higher sales, highlighting seasonal demand patterns  
 
 ## 🔹 Business Recommendations
-- Focus on strategies used during peak performance period
-- Improve declining sales trends
-- Optimize marketing in low-performing periods
+- Reapply strategies used during the peak sales period (2022) to regain growth  
+- Investigate the causes behind declining sales and take corrective actions  
+- Leverage high-performing quarters for targeted marketing campaigns  
+- Focus on optimizing underperforming time periods and maintaining category balance  
 
 ## 🔹 Dashboard Preview
 (Add screenshot here)
 
 ## 🔹 Conclusion
-This project demonstrates how data visualization can support business decision-making.
+This project demonstrates how data visualization can be used to identify trends, uncover patterns, and support data-driven business decisions. It highlights the importance of analyzing historical performance to guide future strategies.
