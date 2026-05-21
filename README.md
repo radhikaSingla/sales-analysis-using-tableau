@@ -1,32 +1,85 @@
-# 📊 Retail Sales Performance Analysis Dashboard
+# 📊 Sales Analytics Dashboard using Tableau
 
 ## 🔹 Objective
-To analyze multi-year retail sales data and identify key trends, performance patterns, and potential business improvement opportunities.
+The objective of this project is to analyze multi-year retail sales data and identify key sales trends, performance patterns, and business improvement opportunities using interactive Tableau dashboards.
+
+---
 
 ## 🔹 Tools Used
 - Tableau
-- Excel
+- Microsoft Excel
 
-## 🔹 Data Analysis
-- Performed year-wise sales trend analysis to identify growth and decline patterns  
-- Analyzed category-wise contribution to understand product performance  
-- Evaluated quarterly sales distribution to detect seasonal trends  
-- Compared performance across different time periods  
+---
+
+## 🔹 Dataset
+The dataset contains retail sales transaction data, including:
+- Order Date
+- Product Categories
+- Sales Amount
+- Quarterly Performance
+- Year-wise Revenue Trends
+
+---
+
+## 🔹 Data Analysis Performed
+- Conducted year-wise sales trend analysis to identify growth and decline patterns
+- Analyzed category-wise sales contribution to evaluate product performance
+- Examined quarterly sales distribution to identify seasonal demand trends
+- Compared sales performance across multiple years and quarters
+- Created interactive visualizations for better business insight generation
+
+---
+
+## 🔹 KPI Highlights
+- **Total Sales:** 6.2M
+- **Average Sales:** 1.03M
+- **Best Performing Year:** 2022
+- **Highest Performing Quarter:** Q4
+
+---
 
 ## 🔹 Key Insights
-- Sales showed a steady increase and peaked in 2022, indicating strong business performance during that period  
-- A decline in sales is observed in subsequent years, suggesting possible changes in demand or business conditions  
-- Product categories contributed relatively evenly to total sales, indicating a balanced portfolio  
-- Certain quarters consistently showed higher sales, highlighting seasonal demand patterns  
+- Sales showed a steady increase from 2020 and reached peak performance in 2022
+- A decline in sales was observed in later years, especially in 2025
+- Product categories contributed almost evenly to overall sales, indicating a balanced product portfolio
+- Q4 consistently generated higher sales compared to other quarters, highlighting seasonal business trends
+- Sales intensity analysis showed 2022 as the strongest performing year
+
+---
 
 ## 🔹 Business Recommendations
-- Reapply strategies used during the peak sales period (2022) to regain growth  
-- Investigate the causes behind declining sales and take corrective actions  
-- Leverage high-performing quarters for targeted marketing campaigns  
-- Focus on optimizing underperforming time periods and maintaining category balance  
+- Reapply successful strategies used during the peak sales period in 2022
+- Investigate factors contributing to declining sales in later years
+- Utilize high-performing quarters for targeted marketing and promotional campaigns
+- Focus on improving underperforming periods to maintain consistent yearly growth
+- Continue maintaining balanced category performance while optimizing top-selling products
+
+---
+
+## 🔹 Dashboard Features
+- Year-wise Sales Trend Analysis
+- Quarterly Sales Distribution Analysis
+- Category-wise Contribution Analysis
+- Sales Intensity Heatmap Visualization
+- Interactive Business Insight Reporting
+
+---
 
 ## 🔹 Dashboard Preview
-(Add screenshot here)
+(Add dashboard screenshot here)
+
+---
+
+## 🔹 Skills Demonstrated
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
+- Trend Analysis
+- Analytical Storytelling
+- Tableau Dashboarding
+- Business Insight Generation
+
+---
 
 ## 🔹 Conclusion
-This project demonstrates how data visualization can be used to identify trends, uncover patterns, and support data-driven business decisions. It highlights the importance of analyzing historical performance to guide future strategies.
+This project demonstrates how data visualization and dashboard analytics can be used to uncover trends, analyze business performance, and support data-driven decision-making. The dashboard provides meaningful insights into sales behavior, seasonal performance, and category contribution, helping businesses make informed strategic decisions.
