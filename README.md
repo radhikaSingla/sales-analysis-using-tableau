@@ -42,6 +42,7 @@ The dataset contains retail sales transaction data, including:
 
 ![tableau workbook Preview](Sales Analytics.jpeg)
 
+
 ---
 
 ## 🔹 Key Insights
