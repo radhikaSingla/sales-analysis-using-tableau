@@ -38,6 +38,12 @@ The dataset contains retail sales transaction data, including:
 
 ---
 
+# 📊 Sales Analytics using Tableau
+
+![tableau workbook Preview](Sales Analytics.jpeg)
+
+---
+
 ## 🔹 Key Insights
 - Sales showed a steady increase from 2020 and reached peak performance in 2022
 - A decline in sales was observed in later years, especially in 2025
