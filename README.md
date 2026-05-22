@@ -40,8 +40,7 @@ The dataset contains retail sales transaction data, including:
 
 # 📊 Sales Analytics using Tableau
 
-![tableau workbook Preview](Sales Analytics.jpeg)
-
+![Workbook Preview](Sales Analytics.jpeg)
 
 ---
 
